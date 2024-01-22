@@ -1,0 +1,13 @@
+Tareas:
+
+1. Encontrar un fichero ejecutable escondido en la siguiente URL:
+https://final.zyndar.repl.co
+
+2. Realizar Reversing Estático al fichero para descubrir un fichero comprimido.
+
+3. Aplicar un ataque de diccionario al fichero comprimido.
+
+Información útil:
+- Para todos los ataques de diccionario se recomienda usar rockyou.txt
+- Es aconsejable buscar ficheros con extensiones comunes (.html, .php, ...) en la web
+- Muchas veces (en la vida) es mejor mirar el Big Picture que centrarse en pequeños detalles...
