@@ -8,4 +8,7 @@ Contents such as: Asymmetric Encryption, Reverse Shell, Vulnerabilities, Metaspl
 Concepts such as: Functions, Pointers, Files, Dynamic Structures, etc.
 
 - Taller de Programación / Programming Workshop : applying the concepts learned in Fundamentals of Programming through practices.
-- 
+
+  
+- Bases de Datos / Databases : learning fundamental concepts of the operation of databases.
+Concepts such as: Data Modeling, SQL Language, Databases Programming, etc.
