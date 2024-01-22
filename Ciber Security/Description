@@ -1,0 +1,27 @@
+
+Cybersecurity was a project (as an extracurricular activity) led by some university students.
+In this course, they taught us the fundamentals of cybersecurity in various branches. 
+They organized several challenges (created by themselves) to be completed individually or in groups,
+and also suggested additional specific challenges from the TryHackMe.com website. 
+We used the Kali Linux virtual machine to tackle all these challenges. 
+Before each challenge, they provided us a theoretical overview related to the specific task. 
+
+
+As mentioned earlier, we covered a wide range of topics, including Symmetric Encryption, Asymmetric Encryption, Cracking Hashes, 
+Google Dorking, IP/TCP Addresses, Reverse Shell/Bind Shell, Vulnerabilities, Exploits, Metasploit, Privilege Escalation, Web Proxy, 
+Reverse Engineering (using Ghidra), and more. 
+
+A huge thank you to the mentors of this course, Blitty and Merk.
+
+___________________________________________________________________________________________________________________________________
+
+Ciber Seguridad fue un proyecto (como extracurricular) que lo llevaban unos chavales de la universidad. 
+En este curso nos enseñaron las bases de ciberseguridad, en distintas ramas. Nos organizaban varios retos (hechos por ellos mismos) 
+a realizar individualmente o en grupo, o nos proponían como extra retos concretos de la pagina web de TryHackMe.com. 
+Utilizamos la maquina virtual de Kali Linux para realizar todos estos retos. Antes de cada reto nos enseñaban una parte teórica relacionada con el reto.
+
+
+Hemos hecho un poco de todo, como decía antes. Contenidos: Cifrado Simétrico, Cifrado asimétrico, Cracking Hashes, Google Dorking, Direcciones IP/TCP,
+Reverse Shell/Bind Shell, Vulnerabilidades, Exploits, Metasploit, Priviledge Escalation, Web Proxy, Ingeniería Inversa (usando Ghidra), etc. 
+
+Un agradecimiento enorme a los mentores de este curso Blitty, Merk. 
